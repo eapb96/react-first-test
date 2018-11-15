@@ -10,15 +10,13 @@
   color: white;
   text-align: center;
 }
-.App-logo img{
+
+.App-logo img {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
+/* Logo Spin animation*/
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -27,3 +25,20 @@
     transform: rotate(360deg);
   }
 }
+
+.Menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.Menu li {
+  display: inline-block;
+  padding-right: 10px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+

@@ -1,4 +1,7 @@
+//Dependencies
 import React, { Component } from 'react';
+
+//Assets
 import './css/App.css';
 
 class Content extends Component {
