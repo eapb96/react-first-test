@@ -2,7 +2,7 @@
   "name": "react-first-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eapb96.github.io/react-first-test/",
+  "homepage": "https://eapb96.github.io/react-first-test/build",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "prop-types": "^15.6.2",
