@@ -1,5 +1,5 @@
 {
-  "name": "my-react-app",
+  "name": "react-first-test",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://eapb96.github.io/react-first-test/",
@@ -15,10 +15,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages-deploy",
-    "clean-source": "rimraf README.md src webroot package.json",
-    "eject": "react-scripts eject"
+    "deploy": "gh-pages -d build",
+    "clean-source": "rimraf README.md src webroot package.json"
+
   },
   "eslintConfig": {
     "extends": "react-app"
