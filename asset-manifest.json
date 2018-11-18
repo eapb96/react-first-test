@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-first-test/static/css/main.99277ccc.chunk.css",
-  "main.js": "/react-first-test/static/js/main.a5607846.chunk.js",
-  "main.js.map": "/react-first-test/static/js/main.a5607846.chunk.js.map",
-  "static/js/1.9052f080.chunk.js": "/react-first-test/static/js/1.9052f080.chunk.js",
-  "static/js/1.9052f080.chunk.js.map": "/react-first-test/static/js/1.9052f080.chunk.js.map",
+  "main.css": "/react-first-test/static/css/main.fbca8afc.chunk.css",
+  "main.js": "/react-first-test/static/js/main.01a02484.chunk.js",
+  "main.js.map": "/react-first-test/static/js/main.01a02484.chunk.js.map",
+  "static/js/1.b1b45a28.chunk.js": "/react-first-test/static/js/1.b1b45a28.chunk.js",
+  "static/js/1.b1b45a28.chunk.js.map": "/react-first-test/static/js/1.b1b45a28.chunk.js.map",
   "runtime~main.js": "/react-first-test/static/js/runtime~main.8a5a962a.js",
   "runtime~main.js.map": "/react-first-test/static/js/runtime~main.8a5a962a.js.map",
   "static/media/logo.svg": "/react-first-test/static/media/logo.5d5d9eef.svg",
-  "static/css/main.99277ccc.chunk.css.map": "/react-first-test/static/css/main.99277ccc.chunk.css.map",
+  "static/css/main.fbca8afc.chunk.css.map": "/react-first-test/static/css/main.fbca8afc.chunk.css.map",
   "index.html": "/react-first-test/index.html",
-  "precache-manifest.3119240e59443c6b21beca7747529b13.js": "/react-first-test/precache-manifest.3119240e59443c6b21beca7747529b13.js",
+  "precache-manifest.5d0a4ef2071a624927c84eebf12a7602.js": "/react-first-test/precache-manifest.5d0a4ef2071a624927c84eebf12a7602.js",
   "service-worker.js": "/react-first-test/service-worker.js"
 }
