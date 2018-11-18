@@ -1,11 +1,22 @@
+// Dependencies
 import React from 'react';
 import { render } from 'react-dom';
+import { BrowserRouter as Router } from 'react-router-dom';
+
+//Assets
 import './index.css';
-import App from './components/App';
+
+//Routes
+///import App from './components/App';
+import AppRoutes from './routes';
+
 import * as serviceWorker from './serviceWorker';
 
 render(
-    <App />, document.getElementById('root')
+  <Router>
+    <AppRoutes />
+  </Router>,
+  document.getElementById('root')
 );
 
 // If you want your app to work offline and load faster, you can change
